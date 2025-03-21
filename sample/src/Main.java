@@ -13,5 +13,6 @@ public class Main {
         }
 
         System.out.println("Update1");
+        System.out.println("Update2");
     }
 }
